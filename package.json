@@ -1,0 +1,8 @@
+{
+    "name"          : "bogotajs",
+    "version"       : "0.0.1",
+    "autor"         : "@josedeweb",
+    "dependencies"  : {
+        "johnny-five" : "*"
+    }
+}
